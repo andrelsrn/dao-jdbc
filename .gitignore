@@ -4,6 +4,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+.idea
 
 ### Eclipse ###
 .apt_generated
@@ -50,7 +51,7 @@ bin/
 *.zip
 *.tar.gz
 *.rar
-
+dao-jdbc.iml
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
